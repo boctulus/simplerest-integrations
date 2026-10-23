@@ -1,3 +1,5 @@
+> **Legacy package identity.** This repository retains the v1.0.0 tag. For new SimpleRest projects use [simplerest-api-clients](https://github.com/boctulus/simplerest-api-clients), [simplerest-web-inspection](https://github.com/boctulus/simplerest-web-inspection), and [simplerest-bootstrap-html](https://github.com/boctulus/simplerest-bootstrap-html). The successor repositories are available on GitHub without version tags and are not registered on Packagist.
+
 # SimpleRest Integrations
 
 Optional integrations and UI helpers for SimpleRest. This package contains Google Drive access, WooCommerce clients, OneSignal and Hugging Face clients, CMS detection, Symfony-based HTML scraping, and a Bootstrap paginator.
